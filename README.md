@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/marrkmusic">
+<p align="center"><a href="https://t.me/iam_your_heart4">
     <img src="https://te.legra.ph/file/7bdf03c71f848170d24b9.jpg"></a></p>
 <p align="center">
     <br><b>Video Stream is a telegram bot project that's allow you to play video on telegram group video chat</b><br>
@@ -12,7 +12,7 @@
     <a href="https://github.com/marrk85/videostream/issues"> <img src="https://img.shields.io/github/issues/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
     <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/forks/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
     <a href="https://github.com/marrk85/videostream/network/members"> <img src="https://img.shields.io/github/stars/marrk85/videostream?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-<p align="center"><a href="https://t.me/marrkmusic">
+<p align="center"><a href="https://t.me/iam_your_heart4">
     <img src="https://te.legra.ph/file/56708bcb0025da5dc19c4.jpg"></a></p>
 <p align="center">
 </p>
@@ -79,8 +79,7 @@ python3 main.py # run the bot.
 # Credits 💖
  [``py-tgcalls``](https://github.com/pytgcalls/pytgcalls)
 - [Dan](https://github.com/delivrance) for [``Pyrogram``](https://github.com/pyrogram)
-# [IRON ♡](https://t.me/marrk85)
-# [KAkA♠](https://t.me/K_A_k_A_03)
+# [broken Mr z ♡](https://t.me/iam_your_heart4)
 
 ### Support & Updates 🎑
-<a href="https://t.me/marrkmusic"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/marrkchannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/iam_your_heart4"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/iam_your_heart4"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
